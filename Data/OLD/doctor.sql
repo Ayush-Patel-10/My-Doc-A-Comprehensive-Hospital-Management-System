@@ -1,0 +1,22 @@
+
+insert into doctors (doctor_id, license_number, start_of_practice, salary, degree, university) values (1, '8507234666', '2000-07-17', 247861, 'MBBS', 'Music Academy "Stanislaw Moniuszko" in Gdansk');
+insert into doctors (doctor_id, license_number, start_of_practice, salary, degree, university) values (2, '1943631492', '2005-05-18', 485182, 'MBBS', 'Banat''s University of Agricultural Sciences');
+insert into doctors (doctor_id, license_number, start_of_practice, salary, degree, university) values (3, '5785603004', '2015-03-16', 339995, 'MBBS', 'Samara State University of Economics');
+insert into doctors (doctor_id, license_number, start_of_practice, salary, degree, university) values (4, '5258386953', '2008-05-11', 381162, 'MD', 'Xiangtan Normal University');
+insert into doctors (doctor_id, license_number, start_of_practice, salary, degree, university) values (5, '7473405942', '2013-11-13', 291262, 'MBBS', 'University of Craiova');
+insert into doctors (doctor_id, license_number, start_of_practice, salary, degree, university) values (6, '1511663650', '2009-01-14', 251880, 'MBBS', 'Chengdu University of Traditional Chinese Medicine');
+insert into doctors (doctor_id, license_number, start_of_practice, salary, degree, university) values (7, '6650997838', '2005-09-23', 425248, 'MD', 'Nangarhar University');
+insert into doctors (doctor_id, license_number, start_of_practice, salary, degree, university) values (8, '9187977524', '2010-02-08', 325050, 'MBBS', 'Universidad Nacional del Centro del Perú');
+insert into doctors (doctor_id, license_number, start_of_practice, salary, degree, university) values (9, '1974558517', '2009-11-13', 468078, 'MBBS', 'Acharya Ranga Agricultural University');
+insert into doctors (doctor_id, license_number, start_of_practice, salary, degree, university) values (10, '0855849169', '2021-02-15', 268546, 'MD', 'Fachhochschule Schwäbisch Hall, Hochschule für Gestaltung');
+insert into doctors (doctor_id, license_number, start_of_practice, salary, degree, university) values (11, '2158190930', '2003-06-22', 450715, 'MBBS', 'University Centre of the Westfjords');
+insert into doctors (doctor_id, license_number, start_of_practice, salary, degree, university) values (12, '7855691715', '2014-11-11', 219128, 'MBBS', 'Tianjin Normal University');
+insert into doctors (doctor_id, license_number, start_of_practice, salary, degree, university) values (13, '9009148270', '2005-10-25', 288697, 'MD', 'Jilin Agricultural University');
+insert into doctors (doctor_id, license_number, start_of_practice, salary, degree, university) values (14, '1091272352', '2002-03-26', 487531, 'MD', 'Anna University');
+insert into doctors (doctor_id, license_number, start_of_practice, salary, degree, university) values (15, '8603557403', '2017-01-02', 365411, 'MD', 'Christian-Albrechts-Universität Kiel');
+insert into doctors (doctor_id, license_number, start_of_practice, salary, degree, university) values (16, '4355932109', '2002-09-28', 219228, 'MBBS', 'Azerbaijan National Conservatorie');
+insert into doctors (doctor_id, license_number, start_of_practice, salary, degree, university) values (17, '7641722520', '2000-05-14', 419869, 'MD', 'University of Grigol Robakidze');
+insert into doctors (doctor_id, license_number, start_of_practice, salary, degree, university) values (18, '8060938851', '2003-03-11', 329962, 'MD', 'Kochi Medical School');
+insert into doctors (doctor_id, license_number, start_of_practice, salary, degree, university) values (19, '1691919217', '2020-07-31', 431725, 'MBBS', 'University of Seychelles');
+insert into doctors (doctor_id, license_number, start_of_practice, salary, degree, university) values (20, '3440445240', '2000-03-16', 321145, 'MBBS', 'Ferris State University');
+insert into doctors (doctor_id, license_number, start_of_practice, salary, degree, university) values (21, '2513302451', '2010-09-25', 388625, 'MD', 'Poznan School of Banking');

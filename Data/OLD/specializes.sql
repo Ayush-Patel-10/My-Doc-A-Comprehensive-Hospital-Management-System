@@ -1,0 +1,23 @@
+
+insert into specializes (doctor_id, area_of_specialization_id) values (1, 5);
+insert into specializes (doctor_id, area_of_specialization_id) values (2, 6);
+insert into specializes (doctor_id, area_of_specialization_id) values (3, 8);
+insert into specializes (doctor_id, area_of_specialization_id) values (4, 7);
+insert into specializes (doctor_id, area_of_specialization_id) values (5, 10);
+insert into specializes (doctor_id, area_of_specialization_id) values (6, 1);
+insert into specializes (doctor_id, area_of_specialization_id) values (7, 2);
+insert into specializes (doctor_id, area_of_specialization_id) values (8, 6);
+insert into specializes (doctor_id, area_of_specialization_id) values (9, 5);
+insert into specializes (doctor_id, area_of_specialization_id) values (10, 3);
+insert into specializes (doctor_id, area_of_specialization_id) values (11, 4);
+insert into specializes (doctor_id, area_of_specialization_id) values (12, 5);
+insert into specializes (doctor_id, area_of_specialization_id) values (13, 9);
+insert into specializes (doctor_id, area_of_specialization_id) values (14, 10);
+insert into specializes (doctor_id, area_of_specialization_id) values (15, 5);
+insert into specializes (doctor_id, area_of_specialization_id) values (1, 6);
+insert into specializes (doctor_id, area_of_specialization_id) values (16, 8);
+insert into specializes (doctor_id, area_of_specialization_id) values (17, 3);
+insert into specializes (doctor_id, area_of_specialization_id) values (18, 7);
+insert into specializes (doctor_id, area_of_specialization_id) values (19, 4);
+insert into specializes (doctor_id, area_of_specialization_id) values (20, 2);
+insert into specializes (doctor_id, area_of_specialization_id) values (21, 1);
